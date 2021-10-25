@@ -1,0 +1,36 @@
+Consumer Price Index (CPI) - All Urban Consumers
+download.bls.gov/pub/time.series/cu/
+Index page [as of October 2021]
+
+10/13/2021  8:30 AM         2185 cu.area
+10/13/2021  8:30 AM           45 cu.base
+ 4/15/2005 10:49 AM          984 cu.contacts
+10/13/2021  8:31 AM     38624855 cu.data.0.Current
+10/13/2021  8:31 AM      2476127 cu.data.1.AllItems
+10/13/2021  8:31 AM     10097573 cu.data.10.OtherWest
+10/13/2021  8:31 AM      5842805 cu.data.11.USFoodBeverage
+10/13/2021  8:31 AM      2349581 cu.data.12.USHousing
+10/13/2021  8:31 AM      1258295 cu.data.13.USApparel
+10/13/2021  8:31 AM      1975025 cu.data.14.USTransportation
+10/13/2021  8:31 AM       880673 cu.data.15.USMedical
+10/13/2021  8:31 AM      1204535 cu.data.16.USRecreation
+10/13/2021  8:31 AM       742199 cu.data.17.USEducationAndCommunication
+10/13/2021  8:31 AM       653327 cu.data.18.USOtherGoodsAndServices
+10/13/2021  8:31 AM      1487405 cu.data.19.PopulationSize
+10/13/2021  8:31 AM     10574693 cu.data.2.Summaries
+10/13/2021  8:31 AM      3273959 cu.data.20.USCommoditiesServicesSpecial
+10/13/2021  8:31 AM       692513 cu.data.3.AsizeNorthEast
+10/13/2021  8:31 AM      2524007 cu.data.4.AsizeNorthCentral
+10/13/2021  8:31 AM       472895 cu.data.5.AsizeSouth
+10/13/2021  8:31 AM      1897619 cu.data.6.AsizeWest
+10/13/2021  8:31 AM      8183045 cu.data.7.OtherNorthEast
+10/13/2021  8:31 AM      9441407 cu.data.8.OtherNorthCentral
+10/13/2021  8:31 AM     10950257 cu.data.9.OtherSouth
+10/13/2021  8:30 AM           29 cu.footnote
+10/13/2021  8:31 AM        16506 cu.item
+ 2/25/1994  5:29 PM          323 cu.period
+10/13/2021  8:31 AM           61 cu.periodicity
+10/12/2018  1:29 PM           79 cu.seasonal
+10/13/2021  8:31 AM      1338689 cu.series
+ 2/14/2018 10:30 AM        14644 cu.txt
+
