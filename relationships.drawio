@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-11-08T22:27:09.374Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="xx8SzPXhAk310vSOUBjc" version="15.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-08T23:38:25.366Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="wiQV7QT63Q5q3ZKkukWK" version="15.7.0" type="github">
   <diagram id="PJ_tOy3wqGNnzfthgvmi" name="Page-1">
     <mxGraphModel dx="1006" dy="717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="EounWeJHLYXHuSPAke20-1" value="cu.area" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="430" width="180" height="190" as="geometry" />
+          <mxGeometry x="1200" y="420" width="180" height="190" as="geometry" />
         </mxCell>
         <mxCell id="EounWeJHLYXHuSPAke20-2" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EounWeJHLYXHuSPAke20-1">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -73,7 +73,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EounWeJHLYXHuSPAke20-17" value="cu.base" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="1185" y="740" width="180" height="100" as="geometry" />
+          <mxGeometry x="1200" y="740" width="180" height="100" as="geometry" />
         </mxCell>
         <mxCell id="EounWeJHLYXHuSPAke20-18" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EounWeJHLYXHuSPAke20-17">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -102,7 +102,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EounWeJHLYXHuSPAke20-30" value="cu.data.1.allitems" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="390" width="180" height="160" as="geometry" />
+          <mxGeometry x="720" y="390" width="180" height="160" as="geometry" />
         </mxCell>
         <mxCell id="EounWeJHLYXHuSPAke20-31" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EounWeJHLYXHuSPAke20-30">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -225,7 +225,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EounWeJHLYXHuSPAke20-59" value="cu.period" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="450" width="180" height="130" as="geometry" />
+          <mxGeometry x="470" y="450" width="180" height="130" as="geometry" />
         </mxCell>
         <mxCell id="EounWeJHLYXHuSPAke20-60" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EounWeJHLYXHuSPAke20-59">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -302,7 +302,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EounWeJHLYXHuSPAke20-86" value="cu.seasonal" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="770" width="180" height="100" as="geometry" />
+          <mxGeometry x="720" y="710" width="180" height="100" as="geometry" />
         </mxCell>
         <mxCell id="EounWeJHLYXHuSPAke20-87" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EounWeJHLYXHuSPAke20-86">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -331,7 +331,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EounWeJHLYXHuSPAke20-99" value="cu.series" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="920" y="550" width="180" height="220" as="geometry" />
+          <mxGeometry x="960" y="550" width="180" height="220" as="geometry" />
         </mxCell>
         <mxCell id="EounWeJHLYXHuSPAke20-100" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EounWeJHLYXHuSPAke20-99">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -446,6 +446,9 @@
             <mxPoint x="890" y="670" as="sourcePoint" />
             <mxPoint x="990" y="570" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="EounWeJHLYXHuSPAke20-124" value="BLS-Consumer Price Index Data Layout" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="850" y="290" width="240" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
